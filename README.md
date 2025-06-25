@@ -12,4 +12,5 @@ The Legend:
   - "Mnożenie" = multiplication
   - "Dzielenie" = division
 
-nocopyright, enjoy 
+Project on CC BY-ND license
+https://creativecommons.org/licenses/by-nd/4.0/deed.pl?utm_source=perplexity
