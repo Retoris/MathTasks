@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Zadania matma\Zadania matma\bin\Debug\Zadania matma.exe.config
+C:\Users\Admin\source\repos\Zadania matma\Zadania matma\bin\Debug\Zadania matma.exe
+C:\Users\Admin\source\repos\Zadania matma\Zadania matma\bin\Debug\Zadania matma.pdb
+C:\Users\Admin\source\repos\Zadania matma\Zadania matma\obj\Debug\Zadania matma.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Zadania matma\Zadania matma\obj\Debug\Zadania_matma.Properties.Resources.resources
+C:\Users\Admin\source\repos\Zadania matma\Zadania matma\obj\Debug\Zadania matma.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Zadania matma\Zadania matma\obj\Debug\Zadania matma.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Zadania matma\Zadania matma\obj\Debug\Zadania matma.exe
+C:\Users\Admin\source\repos\Zadania matma\Zadania matma\obj\Debug\Zadania matma.pdb
+C:\Users\Admin\source\repos\Zadania matma\Zadania matma\obj\Debug\Zadania_matma.MathTasks.resources
